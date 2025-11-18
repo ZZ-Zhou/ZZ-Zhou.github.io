@@ -1,2 +1,2 @@
-# zhongzhou.github.io
-Zhong's Personal Site
+# zz-zhou.github.io
+My Personal Site
